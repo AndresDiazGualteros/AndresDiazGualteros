@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrés díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrés díaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andr%c3%a9s-d%c3%adaz-3aa0971b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andr%c3%a9s-d%c3%adaz-3aa0971b0/" height="30" width="40" /></a>
 <a href="https://fb.com/andrés díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrés díaz" height="30" width="40" /></a>
 <a href="https://instagram.com/andresdiaz__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andresdiaz__22" height="30" width="40" /></a>
 </p>
